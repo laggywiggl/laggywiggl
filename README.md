@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laggywiggl" alt="laggywiggl" /></a> </p>
 
-- 🌱 I’m currently learning **📚 Advanced Topics: Transformers architecture & LLM fine-tuning MLOps and model deployment best practices 🛠️ New Tools: Three.js for 3D web visuals FastAPI for backend services GSAP for advanced animations**
+- 🌱 I’m currently learning **📚 Advanced Topics: Transformers architecture & LLM fine-tuning MLOps and model deployment best practices** 🛠️ New Tools: Three.js for 3D web visuals FastAPI for backend services GSAP for advanced animations**
 
-- 👯 I’m looking to collaborate on **🤖 AI Research Projects - Especially in NLP, computer vision, or multimodal AI 🌐 Open Source Web Projects - React/Vue.js apps with creative interfaces 🛠️ Impactful Tech-for-Good Initiatives - Healthcare, education, or sustainability**
+- 👯 I’m looking to collaborate on **🤖 AI Research Projects - Especially in NLP, computer vision, or multimodal AI **🌐 Open Source Web Projects - React/Vue.js apps with creative interfaces **🛠️ Impactful Tech-for-Good Initiatives - Healthcare, education, or sustainability**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
 
