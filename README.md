@@ -2,10 +2,30 @@
 <h3 align="center">AI Engineer | NLP & Computer Vision Enthusiast</h3>
 
 
+### 🌱 Currently Learning
+**📚 Advanced Topics**  
+- Transformers architecture & LLM fine-tuning  
+- MLOps and model deployment best practices  
 
-- 🌱 I’m currently learning **📚 Advanced Topics: Transformers architecture & LLM fine-tuning MLOps and model deployment best practices 🛠️ New Tools: Three.js for 3D web visuals FastAPI for backend services GSAP for advanced animations**
+**🛠️ New Tools**  
+- Three.js for 3D web visuals  
+- FastAPI for backend services  
+- GSAP for advanced animations  
 
-- 👯 I’m looking to collaborate on **🤖 AI Research Projects - Especially in NLP, computer vision, or multimodal AI 🌐 Open Source Web Projects - React/Vue.js apps with creative interfaces 🛠️ Impactful Tech-for-Good Initiatives - Healthcare, education, or sustainability**
+### 👯 Collaboration Interests
+**🤖 AI Research Projects**  
+- NLP, computer vision, or multimodal AI  
+
+**🌐 Open Source Web Projects**  
+- React/Vue.js apps with creative interfaces  
+
+**🛠️ Tech-for-Good Initiatives**  
+- Healthcare, education, or sustainability solutions
+
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Ouafa AIT OUAMER](https://www.linkedin.com/in/ouafa-ait-ouamer-b597ba213/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
+
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
 ## 🌐 Socials:
