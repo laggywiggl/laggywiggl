@@ -2,19 +2,20 @@
 <h3 align="center">AI Engineer | NLP & Computer Vision Enthusiast</h3>
 
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 **📚 Advanced Topics**  
 - Transformers architecture & LLM fine-tuning  
 - MLOps and model deployment best practices  
 
 
-### 👯 Collaboration Interests
+## 👯 Collaboration Interests
 **🤖 AI Research Projects**  
 - NLP, computer vision, or multimodal AI  
 
-
 **🛠️ Tech-for-Good Initiatives**  
 - Healthcare, education, or sustainability solutions
+- 
+## 👯 Portfolio
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
 
