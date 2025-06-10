@@ -7,17 +7,11 @@
 - Transformers architecture & LLM fine-tuning  
 - MLOps and model deployment best practices  
 
-**🛠️ New Tools**  
-- Three.js for 3D web visuals  
-- FastAPI for backend services  
-- GSAP for advanced animations  
 
 ### 👯 Collaboration Interests
 **🤖 AI Research Projects**  
 - NLP, computer vision, or multimodal AI  
 
-**🌐 Open Source Web Projects**  
-- React/Vue.js apps with creative interfaces  
 
 **🛠️ Tech-for-Good Initiatives**  
 - Healthcare, education, or sustainability solutions
