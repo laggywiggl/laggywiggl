@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouafa AIT OUAMER</h1>
 <h3 align="center">AI Engineer | NLP & Computer Vision Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laggywiggl" alt="laggywiggl" /></a> </p>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laggywiggl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
