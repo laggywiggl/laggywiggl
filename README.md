@@ -17,11 +17,7 @@
 - Healthcare, education, or sustainability solutions
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Ouafa AIT OUAMER](https://www.linkedin.com/in/ouafa-ait-ouamer-b597ba213/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
 
-
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Ouafa AIT OUAMER](https://www.linkedin.com/in/ouafa-ait-ouamer-b597ba213/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
 
