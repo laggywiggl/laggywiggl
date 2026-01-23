@@ -19,7 +19,9 @@
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouafa-ait-ouamer-b597ba213)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
