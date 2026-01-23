@@ -22,6 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouafa-ait-ouamer-b597ba213)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouafaano@gmail.com) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black)](https://huggingface.co/laggywiggl)
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
