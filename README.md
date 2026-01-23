@@ -14,7 +14,6 @@
 
 **🛠️ Tech-for-Good Initiatives**  
 - Healthcare, education, or sustainability solutions
-- 
 ## 👯 Portfolio
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ouafaano](https://www.datascienceportfol.io/ouafaano)
